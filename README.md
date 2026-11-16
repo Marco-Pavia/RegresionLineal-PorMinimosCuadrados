@@ -85,10 +85,6 @@ double[] y = {2, 4, 5, 4, 5};
    ```bash
    javac -d out src/RegresionLineal.java
    ```
-3. Ejecuta la clase principal:
-   ```bash
-   java -cp out Ajuste_de_Funciones.RegresionLineal
-   ```
 
 ### Desde IntelliJ IDEA
 
